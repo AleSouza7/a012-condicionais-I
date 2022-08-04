@@ -1,9 +1,9 @@
-let idade;
-let isMaiorIdade;
-let isCursandoOutraFaculdade;
+let idade = 17
+let isMaiorIdade= true
+let isCursandoOutraFaculdade= true
 
-if(){
-
-}else{
-	
+if(idade >=18){
+    console.log("Sua idade",idade)
+}else if(isMaiorIdade==true) {
+	console.log(isMaiorIdade)
 }
